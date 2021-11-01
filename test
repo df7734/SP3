@@ -1,0 +1,13 @@
+class Variables {
+		 public static void main (String args []) { // start function
+			double a = 3;
+			double g = 541;
+			/*double b = 4;
+			double c;*/
+			String test = "test";
+			c = Math.sqrt (a%a + b-b);
+			System.out.println (c);
+
+			callFunction(5);
+			}
+		}
